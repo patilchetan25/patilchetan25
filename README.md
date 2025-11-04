@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Chetan Patil · Crafting Code &amp; Stories</h1>
-<h3 align="center">AI-first Software Engineer · Writer · MERN Specialist · Explorer of New Interfaces</h3>
+<h3 align="center">Software Engineer · Writer · MERN Specialist · Explorer of New Interfaces</h3>
 
 <p align="center">
   <a href="https://patilchetan25.github.io/chetz/" target="_blank">
@@ -57,9 +57,7 @@
 | Repo | Description | Stack | Live Link |
 | ---- | ----------- | ----- | --------- |
 | **chetz** | Main portfolio + immersive reader | Vanilla JS, CSS, HTML | [Live](https://patilchetan25.github.io/chetz/) |
-| **Voice Cursor Jarvis** | Voice-controlled mouse & automation | Python, SpeechRecognition, PyAutoGUI | — |
-| **AI Story Copilot** | AI-first writing assistant | MERN, OpenAI | — |
-| **Design System Explorer** | Motion-rich brutalist design system | React, Tailwind, Storybook | — |
+
 
 ---
 
