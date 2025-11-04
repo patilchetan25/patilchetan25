@@ -51,14 +51,6 @@
 
 ---
 
-## 🛠️ Currently Building
-
-- 🧪 **AI Story Copilot** — MERN + GPT workflows to assist writers
-- 🖱️ **Voice Cursor Jarvis** — speech-driven cursor control for macOS
-- 🌐 **Design System Explorer** — architecture for brutalist UI components
-- 📘 **We Fell Like Petals (Chapter 02/03)** — continuing the Franklin & Emma narrative
-
----
 
 ## 🧾 Curated Showcase
 
