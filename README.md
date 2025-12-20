@@ -1,7 +1,4 @@
 <!-- Hero -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/patilchetan25/chetz/main/assets/images/hero-placeholder.svg" alt="We Fell Like Petals hero" width="260" />
-</p>
 
 <h1 align="center">Chetan Patil · Crafting Code &amp; Stories</h1>
 <h3 align="center">Software Engineer · Writer · MERN Specialist · Explorer of New Interfaces</h3>
